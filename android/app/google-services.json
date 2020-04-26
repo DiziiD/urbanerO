@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "703265369755",
+    "firebase_url": "https://urbaner-d487a.firebaseio.com",
+    "project_id": "urbaner-d487a",
+    "storage_bucket": "urbaner-d487a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703265369755:android:3761e880602ed2b752a03e",
+        "android_client_info": {
+          "package_name": "com.example.urbaner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703265369755-2eqfiosm5h8cc6tq72hmjbc0jtjaa2ms.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.urbaner",
+            "certificate_hash": "a8fa46292433eb6b29850c7d5b669e46149ce2db"
+          }
+        },
+        {
+          "client_id": "703265369755-ah0srsc4de6i9c7fv9d5jmrbfts7np60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6pwRSvEnCm84umy_XPjZrjzJHBOyzseQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703265369755-ah0srsc4de6i9c7fv9d5jmrbfts7np60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

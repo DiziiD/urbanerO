@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>703265369755-l9op1v0f4cmu2cfklmfcmsqgc1osgpr2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.703265369755-l9op1v0f4cmu2cfklmfcmsqgc1osgpr2</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>703265369755-2eqfiosm5h8cc6tq72hmjbc0jtjaa2ms.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBrQaRv2rRKG1nCwf5ZLZV2lzdjwCQvoks</string>
+	<key>GCM_SENDER_ID</key>
+	<string>703265369755</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.urbaner</string>
+	<key>PROJECT_ID</key>
+	<string>urbaner-d487a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>urbaner-d487a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:703265369755:ios:4c67b5b1ed7873a652a03e</string>
+	<key>DATABASE_URL</key>
+	<string>https://urbaner-d487a.firebaseio.com</string>
+</dict>
+</plist>
